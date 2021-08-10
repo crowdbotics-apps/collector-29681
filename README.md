@@ -59,6 +59,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-user-profile](modules/user-profile)
 - [react-native-terms-and-conditions](modules/terms-and-conditions)
 - [react-native-social-login](modules/social-login)
+- [django-push-notifications](backend/modules/push-notifications)
 
 # Getting started: Frontend
 
