@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@modules/app-menu": "file:./modules/app-menu/",
+    "@modules/login": "file:./modules/login/",
     "@modules/privacy-policy": "file:./modules/privacy-policy/",
     "@modules/social-login": "file:./modules/social-login/",
     "@modules/terms-and-conditions": "file:./modules/terms-and-conditions/",
